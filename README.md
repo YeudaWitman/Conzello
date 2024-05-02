@@ -26,8 +26,8 @@ To install Conzello in your project, you can use npm or yarn:
 # Using npm
 npm install conzello
 
- # Using yarn
-yarn yarn add conzello
+# Using yarn
+yarn  add conzello
 ```
 
 
