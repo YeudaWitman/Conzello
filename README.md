@@ -38,9 +38,16 @@ After installing Conzello, you can import and use it to customize your console l
 
 javascript
 
-Copy code
 
-`import { styleLog } from 'conzello';  // Example of a styled console log styleLog('Hello, Conzello!', { color: 'blue', fontWeight: 'bold' });  // Using a preset style styleLog('This is an important message!', 'alert');`
+```js
+import { styleLog } from 'conzello';
+
+// Example of a styled console log
+styleLog('Hello, Conzello!', { color: 'blue', fontWeight: 'bold' });
+
+// Using a preset style
+styleLog('This is an important message!', 'alert');
+```
 
 Contributing
 ------------
