@@ -22,11 +22,14 @@ Installation
 
 To install Conzello in your project, you can use npm or yarn:
 
-bash
+```bash
+# Using npm
+npm install conzello
 
-Copy code
+ # Using yarn
+yarn yarn add conzello
+```
 
-`# Using npm npm install conzello  # Using yarn yarn add conzello`
 
 Usage
 -----
